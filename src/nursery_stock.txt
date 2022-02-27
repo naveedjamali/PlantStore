@@ -1,0 +1,92 @@
+Perennial
+Foothill Penstemon
+5.99
+low water
+native
+Tree
+Ceanothus
+7.50
+low water
+native
+evergreen
+5
+Tree
+Maple
+15.45
+frequent water
+non native
+deciduous
+10
+Perennial
+Pitcher Sage
+5.99
+low water
+native
+Bulb
+Blue-Eyed Grass
+5.99
+1
+Spring
+Bulb
+Daffodil
+5.99
+12
+Spring
+Tree
+California Oak
+15.99
+low water
+native
+deciduous
+10
+Bulb
+Dahlia
+5.99
+2
+Summer
+Perennial
+California Poppy
+5.50
+low water
+native
+Perennial
+Hydrangea
+10.50
+frequent water
+non native
+Tree
+Pomegranate
+15.99
+low water
+non native
+deciduous
+5
+Perennial
+Lavender
+5.99
+low water
+non native
+Tree
+Orange
+15.99
+frequent water
+non native
+evergreen
+10
+Tree
+Dessert Willow
+5.99
+low water
+native
+deciduous
+5
+Bulb
+Iris
+5.99
+5
+Spring
+Perennial
+Lupin
+5.99
+low water
+native
